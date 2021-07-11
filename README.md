@@ -7,8 +7,7 @@ Intect is an event- &amp; packetbased cheat detection software
 [Jenkins](https://jenkins.squarecode.de/job/Intect/job/master/) » [Download latest file](https://jenkins.squarecode.de/job/Intect/job/master/lastSuccessfulBuild/artifact/target/Intect.jar)
 
 ## License
-- Licenses are free!
-- Contact me **admin@squarecode.de**
+- We use bukkit and are therefore GPL
 
 ## VERSION COMPATIBILITY
 - Intect is compatible with the **Spigot**, **Craftbukkit** and the **PaperSpigot** for 
